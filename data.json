@@ -1,0 +1,2799 @@
+{
+    "data": [
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 91,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 78.33,
+                "hsc_stream": "Science",
+                "degree_percent": 77.48,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68,
+                "hsc_stream": "Arts",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 52,
+                "hsc_stream": "Science",
+                "degree_percent": 52,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 73.6,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73.3,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 49.8,
+                "hsc_stream": "Science",
+                "degree_percent": 67.25,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 49.2,
+                "hsc_stream": "Commerce",
+                "degree_percent": 79,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 79,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61,
+                "hsc_stream": "Commerce",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68.4,
+                "hsc_stream": "Commerce",
+                "degree_percent": 78.3,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 55,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 87,
+                "hsc_stream": "Commerce",
+                "degree_percent": 59,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 47,
+                "hsc_stream": "Commerce",
+                "degree_percent": 50,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 75,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 66.2,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65.6,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 67,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 66,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Arts",
+                "degree_percent": 70,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 76,
+                "hsc_stream": "Commerce",
+                "degree_percent": 85,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60.8,
+                "hsc_stream": "Science",
+                "degree_percent": 72.23,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 64.74,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 97.7,
+                "hsc_stream": "Science",
+                "degree_percent": 78.86,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 54.6,
+                "hsc_stream": "Commerce",
+                "degree_percent": 50.2,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 79,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 76.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 67.5,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 53,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 81,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66.4,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 65,
+                "hsc_stream": "Science",
+                "degree_percent": 81,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 51,
+                "hsc_stream": "Science",
+                "degree_percent": 52,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 78,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 44,
+                "hsc_stream": "Commerce",
+                "degree_percent": 57,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 76,
+                "hsc_stream": "Science",
+                "degree_percent": 65.6,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 58,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68,
+                "hsc_stream": "Science",
+                "degree_percent": 64,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 77,
+                "hsc_stream": "Commerce",
+                "degree_percent": 80,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 63.16,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 39,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 87,
+                "hsc_stream": "Commerce",
+                "degree_percent": 68,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73,
+                "hsc_stream": "Commerce",
+                "degree_percent": 81,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 71.98,
+                "hsc_stream": "Science",
+                "degree_percent": 65.6,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 60,
+                "hsc_stream": "Commerce",
+                "degree_percent": 57,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 68,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 37,
+                "hsc_stream": "Arts",
+                "degree_percent": 52,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73.2,
+                "hsc_stream": "Science",
+                "degree_percent": 68.4,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61.12,
+                "hsc_stream": "Commerce",
+                "degree_percent": 56.2,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 45.83,
+                "hsc_stream": "Commerce",
+                "degree_percent": 53,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 66.6,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 71.4,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61.4,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 76,
+                "hsc_stream": "Commerce",
+                "degree_percent": 74,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Science",
+                "degree_percent": 68,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65.58,
+                "hsc_stream": "Science",
+                "degree_percent": 72.11,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 73.4,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66.89,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 64.2,
+                "hsc_stream": "Science",
+                "degree_percent": 67.4,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 73,
+                "hsc_stream": "Commerce",
+                "degree_percent": 75,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 47,
+                "hsc_stream": "Science",
+                "degree_percent": 57,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 74,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 78.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 67,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 47,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72.7,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 73,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61,
+                "hsc_stream": "Science",
+                "degree_percent": 62,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70.29,
+                "hsc_stream": "Commerce",
+                "degree_percent": 71,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Science",
+                "degree_percent": 78,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 83.83,
+                "hsc_stream": "Commerce",
+                "degree_percent": 71.72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64.8,
+                "hsc_stream": "Commerce",
+                "degree_percent": 70.2,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 77.5,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 70.4,
+                "hsc_stream": "Arts",
+                "degree_percent": 71.93,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 80,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 90.9,
+                "hsc_stream": "Science",
+                "degree_percent": 64.5,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 67,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Commerce",
+                "degree_percent": 74,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 79,
+                "hsc_stream": "Science",
+                "degree_percent": 68,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 70,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 89.83,
+                "hsc_stream": "Commerce",
+                "degree_percent": 77.2,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 51,
+                "hsc_stream": "Science",
+                "degree_percent": 60,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 75,
+                "hsc_stream": "Science",
+                "degree_percent": 69,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 90,
+                "hsc_stream": "Commerce",
+                "degree_percent": 82,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 57,
+                "hsc_stream": "Commerce",
+                "degree_percent": 50.8,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 69,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 54,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 78,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 70,
+                "hsc_stream": "Science",
+                "degree_percent": 76,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 82,
+                "hsc_stream": "Commerce",
+                "degree_percent": 63,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 57,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 72,
+                "hsc_stream": "Commerce",
+                "degree_percent": 68,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 61,
+                "hsc_stream": "Commerce",
+                "degree_percent": 68,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 78,
+                "hsc_stream": "Science",
+                "degree_percent": 73,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 58,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 50,
+                "hsc_stream": "Science",
+                "degree_percent": 54,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 90,
+                "hsc_stream": "Commerce",
+                "degree_percent": 83,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 82,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 70,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 54,
+                "hsc_stream": "Science",
+                "degree_percent": 61,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 79,
+                "hsc_stream": "Commerce",
+                "degree_percent": 67,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68,
+                "hsc_stream": "Science",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 72.8,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66.6,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 75,
+                "hsc_stream": "Science",
+                "degree_percent": 73,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 80,
+                "hsc_stream": "Science",
+                "degree_percent": 78,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68.4,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64.6,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 40,
+                "hsc_stream": "Science",
+                "degree_percent": 59,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 67,
+                "hsc_stream": "Science",
+                "degree_percent": 69.6,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 66.8,
+                "hsc_stream": "Arts",
+                "degree_percent": 69.3,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 59,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 71,
+                "hsc_stream": "Science",
+                "degree_percent": 64.33,
+                "degree_stream": "Others",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 61,
+                "hsc_stream": "Science",
+                "degree_percent": 75.5,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 73.4,
+                "hsc_stream": "Science",
+                "degree_percent": 77.72,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 89.7,
+                "hsc_stream": "Commerce",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65,
+                "hsc_stream": "Commerce",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 57,
+                "hsc_stream": "Science",
+                "degree_percent": 62,
+                "degree_stream": "Others",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 68,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64,
+                "hsc_stream": "Commerce",
+                "degree_percent": 77,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 92,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 56,
+                "hsc_stream": "Science",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 59,
+                "hsc_stream": "Arts",
+                "degree_percent": 64,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 73,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 70,
+                "hsc_stream": "Commerce",
+                "degree_percent": 59,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64.8,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69.5,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 73.43,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 64.89,
+                "hsc_stream": "Commerce",
+                "degree_percent": 70.67,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 50,
+                "hsc_stream": "Arts",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65.66,
+                "hsc_stream": "Science",
+                "degree_percent": 71.25,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 74,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 86,
+                "hsc_stream": "Arts",
+                "degree_percent": 56,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 58,
+                "hsc_stream": "Arts",
+                "degree_percent": 55,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 58.66,
+                "hsc_stream": "Science",
+                "degree_percent": 58,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65,
+                "hsc_stream": "Commerce",
+                "degree_percent": 75,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60.5,
+                "hsc_stream": "Science",
+                "degree_percent": 84,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 59,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 74.66,
+                "hsc_stream": "Commerce",
+                "degree_percent": 59.9,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 69.4,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 60.9,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 64,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 49,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 74,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 51,
+                "hsc_stream": "Commerce",
+                "degree_percent": 57.5,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 87.6,
+                "hsc_stream": "Commerce",
+                "degree_percent": 77.25,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Science",
+                "degree_percent": 64,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 72.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 63.35,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 78.33,
+                "hsc_stream": "Commerce",
+                "degree_percent": 74,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Science",
+                "degree_percent": 67,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 51,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 42.16,
+                "hsc_stream": "Science",
+                "degree_percent": 61.26,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 67.2,
+                "hsc_stream": "Commerce",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 80,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 58,
+                "hsc_stream": "Commerce",
+                "degree_percent": 56,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 52,
+                "hsc_stream": "Science",
+                "degree_percent": 55,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 50.83,
+                "hsc_stream": "Science",
+                "degree_percent": 64.27,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60,
+                "hsc_stream": "Commerce",
+                "degree_percent": 56,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 97,
+                "hsc_stream": "Commerce",
+                "degree_percent": 79,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 56,
+                "hsc_stream": "Science",
+                "degree_percent": 68,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 64,
+                "hsc_stream": "Science",
+                "degree_percent": 64.2,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 71.5,
+                "hsc_stream": "Commerce",
+                "degree_percent": 62.8,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 60.33,
+                "hsc_stream": "Science",
+                "degree_percent": 64.21,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65,
+                "hsc_stream": "Arts",
+                "degree_percent": 57,
+                "degree_stream": "Others",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 77,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 62.83,
+                "hsc_stream": "Commerce",
+                "degree_percent": 59.79,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 72,
+                "hsc_stream": "Science",
+                "degree_percent": 78,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 64,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65.5,
+                "hsc_stream": "Science",
+                "degree_percent": 67,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 47,
+                "hsc_stream": "Commerce",
+                "degree_percent": 54.38,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 77.6,
+                "hsc_stream": "Commerce",
+                "degree_percent": 69.2,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 70.2,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61.4,
+                "hsc_stream": "Commerce",
+                "degree_percent": 64.8,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 63,
+                "hsc_stream": "Arts",
+                "degree_percent": 56,
+                "degree_stream": "Others",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 55,
+                "hsc_stream": "Commerce",
+                "degree_percent": 56.3,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 76,
+                "hsc_stream": "Commerce",
+                "degree_percent": 72,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 77.5,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 53,
+                "hsc_stream": "Science",
+                "degree_percent": 91,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 70,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Others",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 65,
+                "hsc_stream": "Commerce",
+                "degree_percent": 57,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 60,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 63,
+                "hsc_stream": "Science",
+                "degree_percent": 66,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 61.33,
+                "hsc_stream": "Commerce",
+                "degree_percent": 56.87,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 73,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 62,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 42,
+                "hsc_stream": "Science",
+                "degree_percent": 60,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 78,
+                "hsc_stream": "Commerce",
+                "degree_percent": 61,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 72,
+                "hsc_stream": "Commerce",
+                "degree_percent": 65,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 82,
+                "hsc_stream": "Commerce",
+                "degree_percent": 77.6,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 60,
+                "hsc_stream": "Science",
+                "degree_percent": 72,
+                "degree_stream": "Sci&Tech",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 67,
+                "hsc_stream": "Commerce",
+                "degree_percent": 73,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 1
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "F",
+                "hsc_percent": 66,
+                "hsc_stream": "Commerce",
+                "degree_percent": 58,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 1
+            }
+        },
+        {
+            "xs": {
+                "gender": "M",
+                "hsc_percent": 58,
+                "hsc_stream": "Science",
+                "degree_percent": 53,
+                "degree_stream": "Comm&Mgmt",
+                "work_experience": 0
+            },
+            "ys": {
+                "status": 0
+            }
+        }
+    ]
+}

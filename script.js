@@ -3,15 +3,15 @@ let neuralNetwork;
 function createModel()
 {
     const nnOptions = {
-        task: 'regression',
-        activationHidden: 'sigmoid',
-        activationOutput: 'sigmoid',
+        task: "regression",
+        activationHidden: "sigmoid",
+        activationOutput: "sigmoid",
         debug: true,
         learningRate: 0.1,
         noVal: null,
         hiddenUnits: 1,
-        modelMetrics: ['accuracy'],
-        modelLoss: 'meanSquaredError',
+        modelMetrics: ["accuracy"],
+        modelLoss: "meanSquaredError",
         modelOptimizer: "adam"
     };
     // @ts-ignore
